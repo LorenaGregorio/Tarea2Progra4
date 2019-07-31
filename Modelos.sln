@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{747FA2CD-BF23-4F6A-BF55-D762CCF9E7E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdeoDal", "UdeoDal\UdeoDal.csproj", "{4383341B-742F-4B75-8658-86EE029330EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{747FA2CD-BF23-4F6A-BF55-D762CCF9E7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747FA2CD-BF23-4F6A-BF55-D762CCF9E7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747FA2CD-BF23-4F6A-BF55-D762CCF9E7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747FA2CD-BF23-4F6A-BF55-D762CCF9E7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4383341B-742F-4B75-8658-86EE029330EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4383341B-742F-4B75-8658-86EE029330EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4383341B-742F-4B75-8658-86EE029330EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4383341B-742F-4B75-8658-86EE029330EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECCF55D6-18E9-45D3-AAD2-95057D84B566}
+	EndGlobalSection
+EndGlobal
