@@ -51,6 +51,7 @@ namespace UdeoDal
                 {
                     MessageBox.Show(string.Format("{0 } - {1 } - {2 }- {3 }- {4 }- {5 }", 
                         v.TipodeVehiculo, v.Marca, v.Linea, v.Modelo, v.Color,v.Transmision));
+
                 }
 
             }
