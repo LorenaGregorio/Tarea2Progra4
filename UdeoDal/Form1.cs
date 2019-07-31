@@ -45,6 +45,7 @@ namespace UdeoDal
         {
             try
             {
+
                 VehiculoReader reader = new VehiculoReader();
                 Collection<Vehiculo> vehiculos = reader.Execute();
                 foreach (Vehiculo v in vehiculos)
